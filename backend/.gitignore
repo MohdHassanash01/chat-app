@@ -11,7 +11,9 @@ node_modules/
 # Prisma generated files
 .prisma/client/  # Global Prisma client (if used)
 node_modules/.prisma/client/  # Default location
-/prisma/generated/  # If you've customized the output dir
+
+prisma/generated/  
+prisma/generated/prisma
 
 # TypeScript build output
 dist/
